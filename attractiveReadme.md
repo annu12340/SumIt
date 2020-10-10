@@ -15,7 +15,7 @@ It is a text summarizer that summarise content.
 It is vey simple to use.....
 
 * Firstly just type the text inside the text area provided.
-* Then and finally click the button marked as "Generate".
+* Then finally click the button marked as "Generate".
 
 And you are done. Pretty easy!!🤩🤩
 
